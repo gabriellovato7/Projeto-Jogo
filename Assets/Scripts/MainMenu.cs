@@ -25,4 +25,9 @@ public class MainMenu : MonoBehaviour
         PlayerPrefs.SetInt("ModoHardcore", 1);
         SceneManager.LoadScene("Cutscene1");
     }
+
+    public void Sair()
+    {
+        Application.Quit();
+    }
 }
