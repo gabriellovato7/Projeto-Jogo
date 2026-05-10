@@ -225,6 +225,7 @@ GameObject:
   - component: {fileID: 1824837348}
   - component: {fileID: 1824837347}
   - component: {fileID: 1824837346}
+  - component: {fileID: 1824837349}
   m_Layer: 0
   m_Name: Video Player
   m_TagString: Untagged
@@ -244,6 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31d7255f6493e4edaa96fc5abf06b747, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cenaDestino: InitialScene
 --- !u!328 &1824837347
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -262,7 +264,7 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 1
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
@@ -270,7 +272,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: 
+  m_Url: cutsceneFinal.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
@@ -295,6 +297,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1824837349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1824837345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7147c878aefa44879ed4704d37d04e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  videoPlayer: {fileID: 1824837347}
+  nomeDoArquivoVideo: cutsceneFinal.mp4
+  carregarCenaAoTerminar: 1
+  nomeDaProximaCena: InitialScene
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
