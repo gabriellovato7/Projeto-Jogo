@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 229945c7d6e264f9a9f94a787d47b75c
+guid: fb01cd60d6514446182d1b79b1a20de0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_0
+      name: Shadow Knight-jump-v1 (1)_0
       rect:
         serializedVersion: 2
-        x: 66
-        y: 1066
-        width: 126
-        height: 157
+        x: 0
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17f5318e7911c4235822ebe673ebfb3f
-      internalID: -1906944436
+      spriteID: 91516b58068554840b99cb41ebece7ad
+      internalID: 1963930147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_1
+      name: Shadow Knight-jump-v1 (1)_1
       rect:
         serializedVersion: 2
-        x: 317
-        y: 1063
-        width: 132
-        height: 161
+        x: 80
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6033a5673b69a4743a32ec751f0e89aa
-      internalID: -1820310461
+      spriteID: f170354895c2d4e0cb9a8432ab4c9b71
+      internalID: 260895708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_2
+      name: Shadow Knight-jump-v1 (1)_2
       rect:
         serializedVersion: 2
-        x: 593
-        y: 1054
-        width: 105
-        height: 166
+        x: 160
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdfd4e374a5f44248bb8ac20aa4ff394
-      internalID: -1948026435
+      spriteID: 1005e9990c4c5491a913f82440c7f82f
+      internalID: 963305939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_3
+      name: Shadow Knight-jump-v1 (1)_3
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1054
-        width: 88
-        height: 165
+        x: 240
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbf46768490c64fe39c4a6f914912775
-      internalID: 767690094
+      spriteID: 702d506cb24f04ca0ae2bbab29dd6a41
+      internalID: -1685951294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_4
+      name: Shadow Knight-jump-v1 (1)_4
       rect:
         serializedVersion: 2
-        x: 1087
-        y: 1071
-        width: 123
-        height: 152
+        x: 320
+        y: 320
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 209fbf5bd9165461c93377ca753018c5
-      internalID: -2022611252
+      spriteID: aaf5e7ce5e0a54b47ac746ae47a0506d
+      internalID: -725367304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_5
+      name: Shadow Knight-jump-v1 (1)_5
       rect:
         serializedVersion: 2
-        x: 67
-        y: 803
-        width: 112
-        height: 163
+        x: 0
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c20dcee95eb594de08e84f837f896f96
-      internalID: 1125062710
+      spriteID: 39ef92344b2514307a875f021282cfb4
+      internalID: -1645076127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_6
+      name: Shadow Knight-jump-v1 (1)_6
       rect:
         serializedVersion: 2
-        x: 344
-        y: 798
-        width: 83
-        height: 164
+        x: 80
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b0a74ca279f45ab81b12f2a8c297dd
-      internalID: -74415746
+      spriteID: c6a16e1723d7b4311a021c0c28990be9
+      internalID: 1776204649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_7
+      name: Shadow Knight-jump-v1 (1)_7
       rect:
         serializedVersion: 2
-        x: 595
-        y: 803
-        width: 103
-        height: 162
+        x: 160
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6108a09e8edfe4317b59d9d31c3df77e
-      internalID: 1344334708
+      spriteID: e98b306d87a1d4b32bd25d7fcb61ebb2
+      internalID: 109083000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_8
+      name: Shadow Knight-jump-v1 (1)_8
       rect:
         serializedVersion: 2
-        x: 830
-        y: 809
-        width: 132
-        height: 159
+        x: 240
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47bd418a9cc984a35903c6af94fcaaea
-      internalID: -1359621403
+      spriteID: 06143fffbd43b4930ad14d92e6893779
+      internalID: 228576957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_9
+      name: Shadow Knight-jump-v1 (1)_9
       rect:
         serializedVersion: 2
-        x: 1094
-        y: 798
-        width: 120
-        height: 167
+        x: 320
+        y: 240
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f5d7ca72213c478a8dc84f873ca7400
-      internalID: 1406742258
+      spriteID: 63d1f0659c6364260bec4eeb5bde82c9
+      internalID: 1608762058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_10
+      name: Shadow Knight-jump-v1 (1)_10
       rect:
         serializedVersion: 2
-        x: 88
-        y: 542
-        width: 83
-        height: 165
+        x: 0
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56d20b42c34df454f9c44ee3b399276c
-      internalID: -814159467
+      spriteID: ef020af3a1ab344dab53ce96450b2fff
+      internalID: -729289046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_11
+      name: Shadow Knight-jump-v1 (1)_11
       rect:
         serializedVersion: 2
-        x: 326
-        y: 558
-        width: 112
-        height: 153
+        x: 80
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58c0b0831816e41868070ef0ee1e0b66
-      internalID: 1840706912
+      spriteID: 03e80729963414b8da175a3db9b42438
+      internalID: -1244453165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_12
+      name: Shadow Knight-jump-v1 (1)_12
       rect:
         serializedVersion: 2
-        x: 579
-        y: 547
-        width: 114
-        height: 164
+        x: 160
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a3a8ad41104a42ff93c3f2ed9d3ceab
-      internalID: -1535685273
+      spriteID: 29250731215114651aba3cdf1bb55a46
+      internalID: 669104468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_13
+      name: Shadow Knight-jump-v1 (1)_13
       rect:
         serializedVersion: 2
-        x: 851
-        y: 542
-        width: 88
-        height: 165
+        x: 240
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8361d685d91a4238b365cd8d6808983
-      internalID: -1548161698
+      spriteID: 126bb7fc1120147b5919ac5023061950
+      internalID: 1976249975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_14
+      name: Shadow Knight-jump-v1 (1)_14
       rect:
         serializedVersion: 2
-        x: 1107
-        y: 546
-        width: 101
-        height: 162
+        x: 320
+        y: 160
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 447286e613754494b8cc651c6a5914b5
-      internalID: 1065474468
+      spriteID: 35f7e163b827d444ca303d1e675ec8c0
+      internalID: 1792714838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_15
+      name: Shadow Knight-jump-v1 (1)_15
       rect:
         serializedVersion: 2
-        x: 62
-        y: 298
-        width: 132
-        height: 158
+        x: 0
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,20 +426,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 553db1c8627114b04a10c9b932ec3964
-      internalID: -118552000
+      spriteID: d8e0f9368728c42b89b66f098a58ca03
+      internalID: -2076226839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_16
+      name: Shadow Knight-jump-v1 (1)_16
       rect:
         serializedVersion: 2
-        x: 322
-        y: 287
-        width: 125
-        height: 167
+        x: 80
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +447,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15cd759d434a84248a7fa4919a347555
-      internalID: -1580441936
+      spriteID: 3977ab068d9a541bc8a7f66dc04f6603
+      internalID: 1504183599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_17
+      name: Shadow Knight-jump-v1 (1)_17
       rect:
         serializedVersion: 2
-        x: 606
-        y: 286
-        width: 77
-        height: 164
+        x: 160
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +468,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8804739dbd7f34521838c7cb4b66902c
-      internalID: 1070192938
+      spriteID: e55c7c5f0d08d41578071bd245d9ee62
+      internalID: 491791377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_18
+      name: Shadow Knight-jump-v1 (1)_18
       rect:
         serializedVersion: 2
-        x: 840
-        y: 294
-        width: 106
-        height: 159
+        x: 240
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,20 +489,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a408a0346fab24d80b3074fff1b6bed3
-      internalID: -64473829
+      spriteID: 118bfe98a7efc47159347d1f7d786354
+      internalID: 148101057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_19
+      name: Shadow Knight-jump-v1 (1)_19
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 298
-        width: 115
-        height: 157
+        x: 320
+        y: 80
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,20 +510,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12e842ac9ebd844ff930731dc3af522e
-      internalID: -16159277
+      spriteID: 7e92c75535cf7429791ae5d9d1fb756c
+      internalID: -597971506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_20
+      name: Shadow Knight-jump-v1 (1)_20
       rect:
         serializedVersion: 2
-        x: 78
-        y: 30
-        width: 93
-        height: 167
+        x: 0
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +531,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06cb90ab4fdaf49b5bb7d05d8cde4d1f
-      internalID: 328418485
+      spriteID: 10ebab3452694484e869a66887dcf96b
+      internalID: 603912502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_21
+      name: Shadow Knight-jump-v1 (1)_21
       rect:
         serializedVersion: 2
-        x: 339
-        y: 35
-        width: 102
-        height: 161
+        x: 80
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +552,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1fd41baca0914151964cd9d87c4cb54
-      internalID: 1977586419
+      spriteID: d47cbc42c1bd44889875845660ef3efd
+      internalID: 808707998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_22
+      name: Shadow Knight-jump-v1 (1)_22
       rect:
         serializedVersion: 2
-        x: 575
-        y: 41
-        width: 131
-        height: 159
+        x: 160
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +573,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caf9df9b4c5f64359ba771c2f8dca4e0
-      internalID: 2003622946
+      spriteID: 2f09e481d72e749589678c5ff5f4a41c
+      internalID: -1002747800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_23
+      name: Shadow Knight-jump-v1 (1)_23
       rect:
         serializedVersion: 2
-        x: 837
-        y: 31
-        width: 121
-        height: 166
+        x: 240
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +594,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a11c9d5a5d6b412aaa02da5014fc8c4
-      internalID: -1964297177
+      spriteID: 99536be31e50449f985cc28bd667c3b1
+      internalID: -1456604972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shadow Knight-run-v1_24
+      name: Shadow Knight-jump-v1 (1)_24
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 30
-        width: 86
-        height: 165
+        x: 320
+        y: 0
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,8 +615,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7de0c6ae71e8c4c8ab5bab19aaa469fc
-      internalID: -305339436
+      spriteID: 5f68868eef4c645cdab40d7e69bb5943
+      internalID: 1839709056
       vertices: []
       indices: 
       edges: []
@@ -632,31 +632,31 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shadow Knight-run-v1_0: -1906944436
-      Shadow Knight-run-v1_1: -1820310461
-      Shadow Knight-run-v1_10: -814159467
-      Shadow Knight-run-v1_11: 1840706912
-      Shadow Knight-run-v1_12: -1535685273
-      Shadow Knight-run-v1_13: -1548161698
-      Shadow Knight-run-v1_14: 1065474468
-      Shadow Knight-run-v1_15: -118552000
-      Shadow Knight-run-v1_16: -1580441936
-      Shadow Knight-run-v1_17: 1070192938
-      Shadow Knight-run-v1_18: -64473829
-      Shadow Knight-run-v1_19: -16159277
-      Shadow Knight-run-v1_2: -1948026435
-      Shadow Knight-run-v1_20: 328418485
-      Shadow Knight-run-v1_21: 1977586419
-      Shadow Knight-run-v1_22: 2003622946
-      Shadow Knight-run-v1_23: -1964297177
-      Shadow Knight-run-v1_24: -305339436
-      Shadow Knight-run-v1_3: 767690094
-      Shadow Knight-run-v1_4: -2022611252
-      Shadow Knight-run-v1_5: 1125062710
-      Shadow Knight-run-v1_6: -74415746
-      Shadow Knight-run-v1_7: 1344334708
-      Shadow Knight-run-v1_8: -1359621403
-      Shadow Knight-run-v1_9: 1406742258
+      Shadow Knight-jump-v1 (1)_0: 1963930147
+      Shadow Knight-jump-v1 (1)_1: 260895708
+      Shadow Knight-jump-v1 (1)_10: -729289046
+      Shadow Knight-jump-v1 (1)_11: -1244453165
+      Shadow Knight-jump-v1 (1)_12: 669104468
+      Shadow Knight-jump-v1 (1)_13: 1976249975
+      Shadow Knight-jump-v1 (1)_14: 1792714838
+      Shadow Knight-jump-v1 (1)_15: -2076226839
+      Shadow Knight-jump-v1 (1)_16: 1504183599
+      Shadow Knight-jump-v1 (1)_17: 491791377
+      Shadow Knight-jump-v1 (1)_18: 148101057
+      Shadow Knight-jump-v1 (1)_19: -597971506
+      Shadow Knight-jump-v1 (1)_2: 963305939
+      Shadow Knight-jump-v1 (1)_20: 603912502
+      Shadow Knight-jump-v1 (1)_21: 808707998
+      Shadow Knight-jump-v1 (1)_22: -1002747800
+      Shadow Knight-jump-v1 (1)_23: -1456604972
+      Shadow Knight-jump-v1 (1)_24: 1839709056
+      Shadow Knight-jump-v1 (1)_3: -1685951294
+      Shadow Knight-jump-v1 (1)_4: -725367304
+      Shadow Knight-jump-v1 (1)_5: -1645076127
+      Shadow Knight-jump-v1 (1)_6: 1776204649
+      Shadow Knight-jump-v1 (1)_7: 109083000
+      Shadow Knight-jump-v1 (1)_8: 228576957
+      Shadow Knight-jump-v1 (1)_9: 1608762058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
