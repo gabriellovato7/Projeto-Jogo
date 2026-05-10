@@ -94,9 +94,20 @@ public class PlayerHealth : MonoBehaviour
         invencivel = false;
     }
 
+    [Header("Game Over")]
+    public GameObject painelGameOver;
+
     void Morrer()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        if (painelGameOver != null)
+        {
+            painelGameOver.SetActive(true);
+            Time.timeScale = 0f;
+        }
+        else
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     void ProcessarContato(string tagObjeto)
